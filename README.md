@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Sumit Karanjekar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <img align="right" alt="jpg" width="400px" src="https://i.pinimg.com/originals/e3/70/27/e370275244a960ea563490fc6078a859.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thissumit&label=Profile%20views&color=0e75b6&style=flat" alt="thissumit" /> </p>
 
   
-- 💻 I am Pursuing **B.Tech** Major is **Computer Technology**.
+- 💻 I'm Pursuing **B.Tech** Major is **Computer Technology**.
 
 - 🌱 I’m currently learning **React Js and Backend**
    
@@ -27,7 +27,7 @@
   <img align="left" src="public/gmail.gif" alt="https://github.com/thisSumit" width="40" />
 </a>
 <a href="https://thissumit.github.io/this_Sumitgithub.io/" >
-  <img align="left" src="public/website.gif" alt="https://github.com/thisSumit" width="40" />
+  <img align="right" src="public/website.gif" alt="https://github.com/thisSumit" width="40" />
 </a>
 </p>
 
