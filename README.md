@@ -11,7 +11,7 @@
    
 - 🤔 My hobbies are **playing Basketball and watching Anime**.
 
-- 👨‍💻 My Posrtfolio [Website](https://thissumit.github.io/this_Sumitgithub.io/)
+- 👨‍💻 My Portfolio [Website](https://thissumit.github.io/this_Sumitgithub.io/)
 
 - 📫 How to reach me **karanjekarsumit890@gmail.com**
 
